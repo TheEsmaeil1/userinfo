@@ -1,5 +1,6 @@
 # userinfo
 This bot displays its user information 
+![userinfo](https://github.com/user-attachments/assets/dbc0df5c-ec00-4c39-8204-7c7a68cce269)
 
 1. نصب پیش‌نیازها
 ابتدا مطمئن شوید که Python 3.7 یا بالاتر روی سرور نصب شده است. سپس، مراحل زیر را دنبال کنید:
