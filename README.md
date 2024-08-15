@@ -14,18 +14,18 @@ sudo apt install python3 python3-pip -y
 نصب کتابخانه‌های مورد نیاز:
 
 کتابخانه‌های python-telegram-bot و asyncio را نصب کنید:
-
+```
 pip install python-telegram-bot
-
+```
 2. اجرای ربات
 برای اجرای ربات مراحل زیر را طی کنید:
 
 اجرای ربات به صورت مستقیم:
 
 با دستور زیر ربات را اجرا کنید:
-
+```
 python bot.py
-
+```
 
 Project: user information                                 
 Developer: @TheEsmaeil - @ImEsmaeil1                      
