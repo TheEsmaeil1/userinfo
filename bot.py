@@ -19,7 +19,7 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-TOKEN = '7334650619:AAHBYcXs82bPcZYSZrDc5ezUDqxEu_Tv0uE'
+TOKEN = '' # Token Ra Vared konid
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     user = update.effective_user
@@ -47,3 +47,21 @@ def main() -> None:
 
 if __name__ == '__main__':
     main()
+
+
+"""
+**************************************************************
+*  Project: user information                                 *
+*  Developer: @TheEsmaeil - @ImEsmaeil1                      *
+*  Version: 1.0.1                                            *
+*                                                            *
+*  Description:                                              *
+*  This bot displays its user information                    *
+*                                                            *
+*  Contact:                                                  *
+*  Email: info@viraigame.ir - info@codeepic.ir               *
+*  Link:  viraigame.ir - codeepic.ir                         *
+*                                                            *
+*  Last Updated: 2024/05/15 - 10:21                          *
+**************************************************************
+"""
